@@ -50,6 +50,6 @@ As tabelas do banco de dados foram definidas conforme o seguinte esquema:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/oficina-db-challenge.git
+   git clone https://github.com/AllanCardosoDev/banco_dados_zero
    cd oficina-db-challenge
    ```
